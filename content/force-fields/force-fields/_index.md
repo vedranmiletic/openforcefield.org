@@ -22,7 +22,7 @@ Sage (OpenFF 2.y.z) is the codename for the second generation of the small molec
 
 #### Release date: April 18, 2024
 
-Updates to openff-2.1.0 which include improvements to small ring angles and sulfamide parameters. Contributions for this release include changes from Alexandra McIsaac and Pavan Behara, benchmarking results and infrastructure from Alexandra McIsaac, Brent Westbrook, Matthew Thompson, Jeffrey Wagner, Meghan Osato, Hannah Baumann, and Lily Wang, with valuable feedback from Lily Wang, Trevor Gokey, Chapin Cavender, David Mobley, Lee Ping Wang, Christopher Bayly, Bill Swope, and the OpenFF team.
+Updates to openff-2.1.0 which include improvements to small ring angles and sulfamide parameters. Contributions for this release include changes from Alexandra McIsaac and Pavan Behara, benchmarking results and infrastructure from Alexandra McIsaac, Brent Westbrook, Matthew Thompson, Jeffrey Wagner, Meghan Osato, Hannah Baumann, and Lily Wang, with valuable feedback from Lily Wang, Trevor Gokey, Chapin Cavender, David Mobley, Lee-Ping Wang, Christopher Bayly, Bill Swope, and the OpenFF team.
 
 Find more details in the [release notes](https://github.com/openforcefield/openff-forcefields/releases/tag/2024.04.0), including how to re-run optimization and datasets used in training stored in [sage-2.2.0](https://github.com/openforcefield/sage-2.2.0) repo.
 
