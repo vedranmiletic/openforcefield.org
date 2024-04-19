@@ -7,7 +7,7 @@ class: small-images
 
 ##### Force fields released by the Open Force Field Initiative can be accessed in the GitHub [repository](https://github.com/openforcefield/openforcefields).
 
-The files available for [download](https://github.com/openforcefield/openforcefields/releases) are in SMIRKS Native Open Force Field (SMIRNOFF) format. Details about this new format are documented in our recent [publication](https://www.doi.org/10.1021/acs.jctc.8b00640) (or [preprint](https://doi.org/10.1101/286542)), and the most recent specification can be found in the [Open Force Field Toolkit documentation](https://open-forcefield-toolkit.readthedocs.io/en/latest/smirnoff.html). You can parameterize small molecules with SMIRNOFF using the ForceField class in the [Open Force Field toolkit](https://github.com/openforcefield/openforcefield) for simulations with [OpenMM](http://openmm.org/). The resulting system can also be converted to several other simulation formats using [ParmEd](http://parmed.github.io/ParmEd/html/index.html). Usage examples can be found in our [GitHub repository](https://github.com/openforcefield/openff-toolkit/tree/master/examples).
+The files available for [download](https://github.com/openforcefield/openforcefields/releases) are in SMIRKS Native Open Force Field (SMIRNOFF) format. Details about this new format are documented in our recent [publication](https://www.doi.org/10.1021/acs.jctc.8b00640) (or [preprint](https://doi.org/10.1101/286542)), and the most recent specification can be found in the [Open Force Field Toolkit documentation](https://open-forcefield-toolkit.readthedocs.io/en/latest/smirnoff.html). You can parameterize small molecules with SMIRNOFF using the ForceField class in the [Open Force Field toolkit](https://github.com/openforcefield/openforcefield) for simulations with [OpenMM](http://openmm.org/). The resulting system can also be converted to several other simulation formats using [ParmEd](http://parmed.github.io/ParmEd/html/index.html). Usage examples can be found in our [GitHub repository](https://github.com/openforcefield/openff-toolkit/tree/main/examples).
 
 If you experience any issues with the new force field, please be sure to email support@openforcefield.org or raise an issue on the appropriate GitHub repository.
 
@@ -15,7 +15,20 @@ If you experience any issues with the new force field, please be sure to email s
 ## Sage ##
 ![Sage](img/noun_sage.svg)
 
-Sage (OpenFF 2.y.z) is the codename for the second generation of the small molecule force fields released by the Open Force Field Initiative. This line of force field release contains our first set of retrained Lennard-Jones parameters in addition to continued improvements to the valence parameters. All scripts, inputs and the results generated as part of the training the Sage line of OpenFF force fields can be found in [openff-sage](https://github.com/openforcefield/openff-sage) Github repository.
+Sage (OpenFF 2.y.z) is the codename for the second generation of the small molecule force fields released by the Open Force Field Initiative. This line of force field release contains our first set of retrained Lennard-Jones parameters in addition to continued improvements to the valence parameters. All scripts, inputs and the results generated as part of the training the Sage line of OpenFF force fields can be found in the linked GitHub repositories.
+
+{{< br >}}{{< br >}}
+### openff 2.2.0 ###
+
+#### Release date: April 18, 2024
+
+Updates to openff-2.1.0 which include improvements to small ring angles and sulfamide parameters. Contributions for this release include changes from Alexandra McIsaac and Pavan Behara, benchmarking results and infrastructure from Alexandra McIsaac, Brent Westbrook, Matthew Thompson, Jeffrey Wagner, Meghan Osato, Hannah Baumann, and Lily Wang, with valuable feedback from Lily Wang, Trevor Gokey, Chapin Cavender, David Mobley, Lee Ping Wang, Christopher Bayly, Bill Swope, and the OpenFF team.
+
+Find more details in the [release notes](https://github.com/openforcefield/openff-forcefields/releases/tag/2024.04.0), including how to re-run optimization and datasets used in training stored in [sage-2.2.0](https://github.com/openforcefield/sage-2.2.0) repo.
+
+
+{{<button href="https://github.com/openforcefield/openff-forcefields/releases/tag/2024.04.0" text="GitHub" >}}
+{{<button href="https://zenodo.org/record/10995191" text="DOI" >}}
 
 {{< br >}}{{< br >}}
 ### openff 2.1.0 ###
