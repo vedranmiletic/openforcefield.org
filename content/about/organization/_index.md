@@ -84,17 +84,15 @@ The [Open Force Field Consortium officially launched]({{< relref "introducing-th
 ## Consortium Advisory Board
 {{< ul >}}
 - [Cristopher Bayly](https://www.linkedin.com/in/christopher-bayly-b1341021/) (OpenEye)
-- [Pilar Buteler](https://www.linkedin.com/in/pilar-buteler) (Eli Lilly)
+- [Zara Sands](https://www.linkedin.com/in/zarasands/) (Eli Lilly)
 - [Eric Dybeck](https://www.linkedin.com/in/eric-dybeck-2bb62539/) (Pfizer)
-- [Vytautas Gapsys](https://www.linkedin.com/in/vytautas-gapsys-7773768/) (Janssen)
+- [David Hahn](https://www.linkedin.com/in/vytautas-gapsys-7773768/) (Janssen)
 - [Jerome Hert](https://www.linkedin.com/in/jeromehert/) (Roche)
-- [Charles Hutchins](https://www.linkedin.com/in/charles-hutchins-7b589b11/) (AbbVie)
 - [Dan McKay](https://ca.linkedin.com/in/dan-mckay-75539315) (Ventus Therapeutics)
 - [Mark Mackey](https://www.linkedin.com/in/mark-mackey-6b4b8a23/) (Cresset)
 - [Katharina Meier](https://www.linkedin.com/in/katharina-meier-24744887/) (Bayer)
 - [Arjun Narayanan](https://www.linkedin.com/in/arjun-narayanan-0ba28a54/) (Vertex), Secretary
 - [Taylor Quinn](https://www.linkedin.com/in/taylor-quinn-37528789/) (AstraZeneca)
-- [David Rooklin](https://www.linkedin.com/in/david-rooklin-7485194a) (Redesign Science)
 - [Huan Rui](https://www.linkedin.com/in/huan-rui-29867aa/) (Amgen)
 - and others... {{< /ul >}}
 {{< br >}}
@@ -105,17 +103,19 @@ The [Open Force Field Consortium officially launched]({{< relref "introducing-th
 
 # Industry Partners
 {{< ul >}}
-- [AbbVie](https://www.abbvie.com/)
 - [Amgen](https://www.amgen.com/)
 - [AstraZeneca](https://www.astrazeneca.com/)
 - [Bayer](https://www.bayer.com/)
+- [Bristol Myers Squibb](https://www.bms.com/)
 - [Cresset](https://www.cresset-group.com/)
 - [Eli Lilly](https://www.lilly.com/)
+- [Exscientia](https://www.exscientia.ai/)
 - [F. Hoffman-La Roche AG](https://www.roche.com/)
 - [Janssen](https://www.janssen.com/)
+- [ModernaTX](https://www.modernatx.com)
 - [OpenEye](https://www.eyesopen.com/)
 - [Pfizer](https://www.pfizer.com/)
-- [Redesign Science](http://www.redesignscience.com/)
+- [SandboxAQ](https://www.sandboxaq.com)
 - [Ventus Therapeutics](https://www.ventustx.com/)
 - [Vertex Pharmaceuticals](https://www.vrtx.com/)
 - and others...
